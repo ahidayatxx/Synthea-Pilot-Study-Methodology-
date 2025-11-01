@@ -302,7 +302,7 @@ joint_displays.py - Quantitative-qualitative integration matrices
 ### Environment Setup
 ```bash
 # Clone repository
-git clone https://github.com/your-username/Synthea-Pilot-Study-Methodology.git
+git clone https://github.com/ahidayatxx/Synthea-Pilot-Study-Methodology-.git
 cd Synthea-Pilot-Study-Methodology/examples/hypertension-telemedicine
 
 # Install dependencies
@@ -355,14 +355,14 @@ We welcome contributions to enhance this case study example:
 ## 📞 Contact and Collaboration
 
 ### For This Case Study
-- **Example Maintainer**: [Contact Information]
+- **Example Maintainer**: [Ahmad Hidayat](mailto:ahmad.hidayat@example.com)
 - **Clinical Expertise**: [Healthcare Collaborator]
 - **Technical Support**: [Methodology Expert]
 
 ### General Inquiries
-- **Project Repository**: [GitHub Link]
-- **Research Collaboration**: [Email Contact]
-- **Methodology Questions**: [Discussion Forum]
+- **Project Repository**: [GitHub Link](https://github.com/ahidayatxx/Synthea-Pilot-Study-Methodology-)
+- **Research Collaboration**: [Email Contact](mailto:research.ahmad.hidayat@example.com)
+- **Methodology Questions**: [Discussion Forum](https://github.com/ahidayatxx/Synthea-Pilot-Study-Methodology-/discussions)
 
 ---
 

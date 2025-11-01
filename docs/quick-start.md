@@ -8,7 +8,7 @@ Get started with the Synthea Pilot Study Methodology in minutes with this compre
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Synthea-Pilot-Study-Methodology.git
+git clone https://github.com/ahidayatxx/Synthea-Pilot-Study-Methodology-.git
 cd Synthea-Pilot-Study-Methodology
 
 # Create virtual environment

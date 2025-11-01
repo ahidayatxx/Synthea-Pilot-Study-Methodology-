@@ -31,7 +31,7 @@ We welcome the following types of contributions:
 #### 1. Repository Setup
 ```bash
 # Fork the repository
-git clone https://github.com/your-username/Synthea-Pilot-Study-Methodology.git
+git clone https://github.com/ahidayatxx/Synthea-Pilot-Study-Methodology-.git
 cd Synthea-Pilot-Study-Methodology
 
 # Add upstream remote

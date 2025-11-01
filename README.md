@@ -35,7 +35,7 @@ This repository includes a complete example of pilot study methodology applied t
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Synthea-Pilot-Study-Methodology.git
+git clone https://github.com/ahidayatxx/Synthea-Pilot-Study-Methodology-.git
 cd Synthea-Pilot-Study-Methodology
 
 # Set up the environment
@@ -220,9 +220,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Maintainer**: [Your Name](mailto:your.email@example.com)
-- **Issues and Discussions**: [GitHub Issues](https://github.com/your-username/Synthea-Pilot-Study-Methodology/issues)
-- **Research Collaboration**: [Research Inquiries](mailto:research@example.com)
+- **Project Maintainer**: [Ahmad Hidayat](mailto:ahmad.hidayat@example.com)
+- **Issues and Discussions**: [GitHub Issues](https://github.com/ahidayatxx/Synthea-Pilot-Study-Methodology-/issues)
+- **Research Collaboration**: [Research Inquiries](mailto:research.ahmad.hidayat@example.com)
 
 ## 🔗 Related Resources
 
@@ -238,9 +238,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```bibtex
 @software{synthea_pilot_methodology,
   title={Synthea Pilot Study Methodology: A Framework for Risk-Free Research Protocol Testing},
-  author={[Author Names]},
+  author={Ahmad Hidayat},
   year={2025},
-  url={https://github.com/your-username/Synthea-Pilot-Study-Methodology}
+  url={https://github.com/ahidayatxx/Synthea-Pilot-Study-Methodology-}
 }
 ```
 
