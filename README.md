@@ -144,6 +144,9 @@ Synthea-Pilot-Study-Methodology/
 - [Tool Reference](docs/tools.md)
 - [Best Practices](docs/best-practices.md)
 
+### 🤖 Development Tools
+- [AI Development Process](docs/tools-used.md) - Complete transparency about tools used in development
+
 ## 🎯 Use Cases
 
 ### Clinical Research
